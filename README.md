@@ -1,19 +1,9 @@
-# Spring Boot Security With JWT
+# Mable Game with JAVA
 
-# Api test with swagger
+# Package
 
-- Swagger Main
-
-![api 목록](./readMeImgs/swaggermain.png)
-
-- Swagger SignUp
-
-![api 목록](./readMeImgs/swaggersignup.png)
-
-- Swagger Login
-
-![api 목록](./readMeImgs/swaggerlogin.png)
-
-- JWT.io
-
-![api 목록](./readMeImgs/jwtio.png)
+- Main : controller
+- Area : 지역
+- Player : 게임 플레이어
+- GameService : 게임 구조 및 실행
+- Utils : Scanner 및 지역 split

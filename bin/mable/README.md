@@ -1,4 +1,4 @@
-# Mable Game with JAVA (without UI)
+# Mable Game with JAVA
 
 # Package
 
@@ -7,7 +7,3 @@
 - Player : 게임 플레이어
 - GameService : 게임 구조 및 실행
 - Utils : Scanner 및 지역 split
-
-# Mable Game
-
-![api 목록](./readMeImgs/mable.png)
